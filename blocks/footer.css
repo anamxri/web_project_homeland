@@ -29,14 +29,15 @@
 
 @media screen and (max-width: 544px) {
   .footer__copyright {
-    line-height: 15px;
+    margin-top: 450px;
   }
 }
+
 @media screen and (max-width: 320px) {
   .footer {
     line-height: 14px;
     max-width: 166px;
     margin-left: 77px;
-    padding-top: 400px;
+    padding-top: 100px;
   }
 }
